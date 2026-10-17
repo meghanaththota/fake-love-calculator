@@ -94,4 +94,4 @@ A Java developer in progress, learning by building practical projects.
 
 **Meghanath Thota**
 
-GitHub: 
+LinkedIn: [https://www.linkedin.com/in/meghanath-thota-070212321/]
